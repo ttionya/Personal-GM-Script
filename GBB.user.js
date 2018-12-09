@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         GBB-TTIONYA
+// @name         TTIONYA-GBB
 // @namespace    https://blog.ttionya.com
-// @version      3.0.1
+// @version      3.0.2
 // @description  Google、Baidu、Bing搜索切换
 // @copyright    2018, TTIONYA
 // @author       TTIONYA
